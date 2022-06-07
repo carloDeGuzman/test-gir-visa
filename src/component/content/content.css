@@ -1,0 +1,64 @@
+.contentMain {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0px 10px 0px;
+}
+
+.contentTrip {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.pickUpCard {
+  color: #f7a600;
+}
+
+.calendarContent {
+  padding-right: 20px;
+}
+
+.pickUpSchedules {
+  color: #05386b;
+}
+
+.pickUpSchedule {
+  display: flex;
+  gap: 5px;
+}
+
+.test {
+  color: #f7a600;
+  height: 3em;
+}
+
+.card {
+  border: none;
+}
+
+.clockIcon {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.privateTourBtn {
+  background-color: #f7a600;
+  border-color: #f7a600;
+}
+
+.btnText {
+  color: white;
+}
+
+.privateTour {
+  display: flex;
+  gap: 5px;
+}
+.privateTours {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  display: flex;
+  /* justify-content: center; */
+}

@@ -1,0 +1,77 @@
+/* .header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px 20px 20px 20px;
+    color: #23a455;
+    align-items: center;
+} */
+
+.navbar-light .navbar-brand {
+  color: #23a455;
+}
+
+.abc {
+  display: flex;
+}
+
+.infoDetails {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.brandContainer {
+  display: flex;
+}
+
+.headerTitle {
+  color: #f7a600;
+  padding: 10px 0px 5px 0px;
+}
+
+.infoDetail {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+  overflow: hidden;
+}
+
+.awesomeIcon {
+  padding-top: 5px;
+  color: black;
+  height: 12px;
+}
+
+#basic-nav-dropdown {
+  color: white;
+}
+
+.navbarMain {
+  background-color: #f7a600;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  box-shadow: 0px 5px;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.headerItemText {
+  color: #23a455;
+  padding-left: 5px;
+}
+
+.navLinkItemText {
+  color: white;
+  margin-bottom: 0px;
+}
+
+.navbar-brand {
+  margin-right: auto;
+  padding-bottom: 0px;
+}
+
+.contactHeader {
+  display: flex;
+}

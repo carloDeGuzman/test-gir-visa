@@ -23,7 +23,7 @@ class Header extends Component {
           <Row>
             <Col>
               <div>
-                <h1 className="headerTitle">PRO VISA RUN</h1>
+                <h1 className="headerTitle">TOP VISA RUN</h1>
               </div>
             </Col>
           </Row>
